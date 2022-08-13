@@ -9,6 +9,7 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alausa2001&langs_count=5&theme=tokyonight)]()
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alausa2001"/>
 
 #### Twitter 
 
