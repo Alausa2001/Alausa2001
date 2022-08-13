@@ -4,6 +4,12 @@
 
 🌱 I’m currently learning Software engineering in Alx_Africa and Cloud Computing in Google Africa Developers Scholarship programme
 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alausa2001&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alausa2001&langs_count=5&theme=tokyonight)]()
+
+
 #### Twitter 
 
 @Alausaabdulqoy3
