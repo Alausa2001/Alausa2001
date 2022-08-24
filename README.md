@@ -11,9 +11,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alausa2001"/>
 
-#### Twitter 
-
-@Alausaabdulqoy3
 
 #### LinkedIn
 
