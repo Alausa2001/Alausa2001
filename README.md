@@ -14,4 +14,4 @@
 
 
 
-[LINKEDIN](www.linkedin.com/in/abdulqoyum-alausa-382a57239)
+[LINKEDIN](https://linkedin.com/in/abdulqoyum-alausa-382a57239)
