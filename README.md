@@ -1,6 +1,6 @@
 👋 Hey, I’m Abdulqoyum Alausa
 
-👀 I’m interested in Back-end Development and Cloud Engineering
+👀 I’m interested in Back-end Development
 
 🌱 I’m currently learning Software engineering in Alx_Africa
 
