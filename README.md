@@ -6,7 +6,7 @@
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Alausa2001.Alausa2001)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alausa2001&theme=tokyonight)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alausa2001&count_private=true&theme=tokyonight&showicons=true)]()
