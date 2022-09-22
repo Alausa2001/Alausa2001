@@ -1,6 +1,6 @@
 👋 Hey, I’m Abdulqoyum Alausa
 
-👀 I’m interested in Back-end Development
+👀 I’m interested in Back-end Development, also having a one-eye side view at Artificial Intelligence. I hope a find my niche soon.
 
 🌱 I’m currently learning Software engineering in Alx_Africa
 
