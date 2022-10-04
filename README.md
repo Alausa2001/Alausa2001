@@ -2,7 +2,7 @@
 
 👀 I’m interested in Back-end Development.
 
-🌱 I’m currently learning Software engineering in Alx_Africa
+🌱 I’m currently learning Software engineering at Alx_Africa(Holberton School).
 
 
 
