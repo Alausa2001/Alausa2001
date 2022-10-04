@@ -1,6 +1,6 @@
 👋 Hey, I’m Abdulqoyum Alausa
 
-👀 I’m interested in Back-end Development, also having a one-eye side view at Artificial Intelligence. I hope a find my niche soon.
+👀 I’m interested in Back-end Development.
 
 🌱 I’m currently learning Software engineering in Alx_Africa
 
@@ -11,8 +11,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alausa2001&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alausa2001&layout=compact&langs_count=10&theme=tokyonight)]()
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alausa2001)](https://github.com/Alausa2001/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alausa2001"/>
 
 
