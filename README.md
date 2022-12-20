@@ -7,11 +7,9 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alausa2001&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alausa2001&layout=compact&langs_count=10&theme=tokyonight)]()
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alausa2001&layout=compact&theme=vision-friendly-dark)](https://github.com/Alausa2001/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alausa2001"/>
-
-![Snake animation](https://github.com/Alausa2001/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alausa2001&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [LINKEDIN](https://linkedin.com/in/abdulqoyum-alausa-382a57239)
