@@ -11,6 +11,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alausa2001"/>
 
+![Snake animation](https://github.com/Alausa2001/Alausa2001/blob/output/github-contribution-grid-snake.svg)
 
 
 [LINKEDIN](https://linkedin.com/in/abdulqoyum-alausa-382a57239)
