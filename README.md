@@ -4,9 +4,9 @@
 
 🌱 I’m currently learning Software engineering at Alx_Africa(Holberton School).
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Alausa2001)](https://github.com/Alausa2001)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alausa2001&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alausa2001&layout=compact)](https://github.com/Alausa2001)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alausa2001&langs_count=10&theme=tokyonight)]()
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alausa2001&theme=dark&background=000000)](https://git.io/streak-stats)
 
