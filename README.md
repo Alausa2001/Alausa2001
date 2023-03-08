@@ -10,7 +10,7 @@ Python, C, TypeScript, JavaScript, NodeJs, SQL, NoSQL, HTML, CSS
 
 
 ### Frameworks and others
-Flask, MySQL, Redis, MongoDb, AWS, Git, Vagrant, OpenSSL, ufw, Gunicorn, Haproxy, Nginx, Wix
+Flask, MySQL, Redis, MongoDb, JQuery, AWS, Git, Vagrant, OpenSSL, ufw, Gunicorn, Haproxy, Nginx, Wix
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alausa2001&count_private=true&theme=tokyonight&showicons=true)]()
