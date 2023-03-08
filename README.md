@@ -4,8 +4,10 @@ I am a Software Engineer who loves solving complex algorithmic problems. I have 
 
 
 ## Skills and Expertise
+
 ### Programming languages: 
 Python, C, TypeScript, JavaScript, NodeJs, SQL, NoSQL, HTML, CSS
+
 
 ### Frameworks and others
 Flask, MySQL, Redis, MongoDb, AWS, Git, Vagrant, OpenSSL, ufw, Gunicorn, Haproxy, Nginx, Wix
