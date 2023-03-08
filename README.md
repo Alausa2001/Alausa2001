@@ -1,13 +1,13 @@
-#### 👋 Hey, I’m [Abdulqoyum](https://linkedin.com/in/abdulqoyum-alausa-382a57239)
+## 👋 Hey, I’m [Abdulqoyum](https://linkedin.com/in/abdulqoyum-alausa-382a57239)
 
 I am a Software Engineer who loves solving complex algorithmic problems. I have extensive experience in Backend engineering.
 
 
-#### Skills and Expertise
-##### Programming languages: 
+## Skills and Expertise
+### Programming languages: 
 Python, C, TypeScript, JavaScript, NodeJs, SQL, NoSQL, HTML, CSS
 
-##### Frameworks and others
+### Frameworks and others
 Flask, MySQL, Redis, MongoDb, AWS, Git, Vagrant, OpenSSL, ufw, Gunicorn, Haproxy, Nginx, Wix
 
 
