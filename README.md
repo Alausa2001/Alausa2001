@@ -6,7 +6,7 @@ I am a Software Engineer who loves solving complex algorithmic problems. I have 
 ## Skills and Expertise
 
 ### Programming languages: 
-Python, C, TypeScript, JavaScript, NodeJs, SQL, NoSQL, HTML, CSS, Bash
+Python, C, JavaScript, NodeJs, SQL, NoSQL, HTML, CSS, Bash
 
 
 ### Frameworks and others
