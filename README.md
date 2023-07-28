@@ -6,11 +6,11 @@ I am a Software Engineer who loves solving complex algorithmic problems. I have 
 ## Skills and Expertise
 
 ### Programming languages: 
-Python, C, JavaScript, NodeJs, SQL, NoSQL, HTML, CSS, Bash
+Python, C, JavaScript, NodeJs, SQL, Bash
 
 
 ### Frameworks and others
-Flask, ExpressJS, MySQL, Redis, MongoDb, JQuery, AWS, Puppet, Git, Vagrant, OpenSSL, ufw, Gunicorn, Haproxy, Nginx, Wix
+NoSQL, Flask, ExpressJS, MySQL, Redis, MongoDb, JQuery, AWS, Puppet, Git, Vagrant, OpenSSL, ufw, Gunicorn, Haproxy, Nginx, Wix
 
 
 
