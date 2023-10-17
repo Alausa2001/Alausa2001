@@ -10,7 +10,7 @@ Python, C, JavaScript, NodeJs, SQL, Bash
 
 
 ### Frameworks and others
-NoSQL, Flask, ExpressJS, MySQL, Redis, MongoDb, JQuery, AWS, Puppet, Git, Vagrant, OpenSSL, ufw, Gunicorn, Haproxy, Nginx, Wix
+NoSQL, Flask, ExpressJS, MySQL, Redis, MongoDb, JQuery, AWS, Puppet, Git, Vagrant, OpenSSL, ufw, Gunicorn, Haproxy, Nginx,Apache, Wix
 
 
 
